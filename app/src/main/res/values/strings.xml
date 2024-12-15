@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DocApp</string>
+    <string name="zip_code_label">Zip code</string>
+    <string name="zip_code_placeholder">Enter ZIP code</string>
+    <string name="search_by_zip_button">SEARCH BY ZIP</string>
+    <string name="search_by_county">Search by County</string>
+    <string name="or_text">Or</string>
+    <string name="use_my_location">Use My Location</string>
+    <string name="select_network_label">Select Network</string>
+    <string name="select_network_placeholder">Select Network</string>
+
+    <!-- Network Options -->
+    <string-array name="network_options">
+        <item>Access Network</item>
+        <item>Insight Network</item>
+        <item>Select Network</item>
+        <item>I don’t know</item>
+    </string-array>
+
+    <!-- App Strings -->
+    <string name="app_title">Find an eye doctor</string>
+
+    <!-- Tab Titles -->
+    <string name="tab_by_location">By Location</string>
+    <string name="tab_by_doctor">By Doctor</string>
+    <string name="tab_online_lasik">Online &amp; Lasik</string>
+
+    <!-- Screen Title-->
+    <string name="by_location">By Location</string>
+    <string name="by_doctor">By Doctor</string>
+    <string name="online_lasik">Online &amp; Lasik</string>
+    <string name="location_permission_granted">Location permission granted.</string>
+    <string name="search_by_county_tapped">Search by county tapped.</string>
+
+</resources>
